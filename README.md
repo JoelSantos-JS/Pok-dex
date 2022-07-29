@@ -1,4 +1,4 @@
 # Pok-dex
 
 
-# Projeto Pokedex para aprimorar minha abilidades em HTML , CSS , JS 
+ <h1> Projeto Pokedex para aprimorar minha abilidades em HTML , CSS , JS <h1>
